@@ -1,0 +1,14 @@
+{
+    "core": {
+        "game": "deusex",
+        "geometry": "850x360",
+        "search": "",
+        "launcher": "",
+        "autorefresh": true,
+        "history": [
+            "deusex",
+            "hx",
+            "unreal"
+        ]
+    }
+}
